@@ -1,1 +1,1 @@
-# paper-game
+# js project
